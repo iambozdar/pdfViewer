@@ -6,8 +6,8 @@ You just need to plug the main.js into your web app and modify css class as you 
 
 ### It's good to get into contact
 
-Follow me on https://twitter.com/ajbozdar
+Follow me on https://twitter.com/iambozdar
 
-Visit my personal website https://ajbozdar.com
+Visit my personal website https://iambozdar.com
 
 I am available for hire!
